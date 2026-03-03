@@ -1,6 +1,6 @@
 ## About Me
 - 🎓 Information Systems student at UFBA  
-- 💻 Currently studying SQL and backend development  
+- 💻 Currently learning SQL and backend development  
 - 🤖 Interested in data analysis, AI, and data-driven solutions  
 
 ## Technologies and Tools
